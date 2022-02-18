@@ -1,10 +1,8 @@
-<!--
 <div
 align="right">
 <img
 src="https://komarev.com/ghpvc/?username=cm107&&style=plastic" align="right" />
 </div>
--->
 
 ## Github Stats
 
